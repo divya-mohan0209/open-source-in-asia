@@ -61,7 +61,7 @@ This project uses:
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/SammanSarkar/open-source-in-asia.git
+   git clone https://github.com/divya-mohan0209/open-source-in-asia.git
    cd open-source-in-asia
    ```
 

@@ -20,8 +20,8 @@ execute:
 
 website:
   title: "Open Source Communities"
-  site-url: "https://sammansarkar.github.io/open-source-in-asia"
-  repo-url: "https://github.com/SammanSarkar/open-source-in-asia"
+  site-url: "https://divya-mohan0209.github.io/open-source-in-asia"
+  repo-url: "https://github.com/divya-mohan0209/open-source-in-asia"
   repo-actions: [edit, issue]
   navbar:
     background: primary
